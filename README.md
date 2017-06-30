@@ -1,1 +1,1 @@
-# mcomp
+# mcomp-med
